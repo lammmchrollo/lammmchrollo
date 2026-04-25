@@ -1,11 +1,11 @@
 <h1 align="left">👋 Hi there, I'm Phạm Tùng Lâm</h1>
 
-- 🔭 I’m currently working on **[Tên dự án nổi bật của bạn, vd: Web quản lý bán hàng]**
+- 🔭 I’m currently working on **Mua vé tàu Hỏa**
 - 🌱 I’m currently learning **ReactJS, NodeJS, và System Design**
 - 👯 I’m looking to collaborate on **các dự án Web Application**
-- 📫 How to reach me: **[Email của bạn]** | **[Link LinkedIn của bạn]**
-- ⚡ Fun fact: **[Thêm 1 câu vui vẻ, vd: Thích fix bug vào lúc 2h sáng 🦉]**
-- 🏫 Study: **Sinh viên IT tại [Tên trường Đại học của bạn]**
+- 📫 How to reach me: **phamtunglam.chrollo@gmail.com** 
+- ⚡ Fun fact: ** Thích fix bug vào lúc 2h sáng 🦉**
+- 🏫 Study: **Sinh viên IT tại VJU-VNU**
 
 ---
 
@@ -35,25 +35,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
-  <br><br>
+    <br><br>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-
   <br><br>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### 📊 GitHub Analytics:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lammmchrollo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammmchrollo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
