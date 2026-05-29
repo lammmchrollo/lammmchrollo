@@ -1,8 +1,5 @@
 <h1 align="left">👋 Hi there, I'm Phạm Tùng Lâm</h1>
 
-- 🔭 I’m currently working on **Mua vé tàu Hỏa**
-- 🌱 I’m currently learning **ReactJS, NodeJS, và System Design**
-- 👯 I’m looking to collaborate on **các dự án Web Application**
 - 📫 How to reach me: **phamtunglam.chrollo@gmail.com** 
 - ⚡ Fun fact: ** Thích fix bug vào lúc 2h sáng 🦉**
 - 🏫 Study: **Sinh viên IT tại VJU-VNU**
