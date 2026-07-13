@@ -15,7 +15,7 @@
   <a href="[Link Instagram của bạn]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[Link LinkedIn của bạn]" target="_blank">
+  <a href="https://www.linkedin.com/in/l%C3%A2m-ph%E1%BA%A1m-98848b384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:[Email của bạn]">
