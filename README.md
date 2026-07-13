@@ -1,7 +1,9 @@
 <h1 align="left">👋 Hi there, I'm Phạm Tùng Lâm</h1>
 
 📫 How to reach me: **phamtunglam.chrollo@gmail.com** 
+  <br><br>
 ⚡ Fun fact: Thích ngủ, siuuu 🦉
+  <br><br>
 🏫 Study: Sinh viên IT tại VJU-VNU
 
 ---
