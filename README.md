@@ -1,10 +1,10 @@
-<h1 align="left">👋 Hiii  I'm Phạm Tùng Lâm</h1>
+<h1 align="left">👋Hiiiii👋 I'm Phạm Tùng Lâm</h1>
 
 📫 How to reach me: **phamtunglam.chrollo@gmail.com** 
   <br><br>
 ⚡ Fun fact: Thích ngủ, siuuu 🦉
   <br><br>
-🏫 Study: Sinh viên IT tại VJU-VNU
+🏫 Study: Sinh viên Khoa học và kỹ thuật máy tính tại VJU-VNU
 
   <h3>🌐 Let's Connect</h3>
   <a href="[Link Facebook của bạn]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
